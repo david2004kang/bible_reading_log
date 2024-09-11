@@ -1,5 +1,4 @@
-# Bible Reading Progress Tracker
-# 讀經進度記錄
+# Bible Reading Progress Tracker (聖經讀經進度追蹤)
 
 A web application for tracking daily Bible reading progress. Users can register or log in using their credentials or Google OAuth and keep a record of their daily Bible reading progress. The app is built using **Flask** for the backend, **Vue.js** for the frontend, and **MySQL** as the database, and it is containerized using **Docker**.
 
